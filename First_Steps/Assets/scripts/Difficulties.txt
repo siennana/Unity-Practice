@@ -1,0 +1,6 @@
+* Easy (School)
+    * principal, chalkboard, desk, student, password
+* Medium (Facebook)
+    * zucky, misery, socialmedia, societalcollapse, grandma
+* Hard (NASA)
+    * blackhole, galaxy, asteroidbelt, astronaut, milkyway
